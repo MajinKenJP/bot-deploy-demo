@@ -1,6 +1,5 @@
 name: Docker Compose Up
 
-
 on:
   push:
     branches: [ "main" ]
